@@ -12,7 +12,7 @@ Atualmente sou professor de Matemática em processo de migração para uma nova 
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/cosmo-matias-gomes-14000925/">
+  <a href="https://www.linkedin.com/in/cosmo-matias/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/ducosmo">
