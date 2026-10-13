@@ -1,31 +1,21 @@
-## Olá, tudo bem?
+# Olá, sou Cosmo Matias Gomes 👋
 
-Atualmente sou professor de Matemática em processo de migração para uma nova área no mercado de trabalho, Desenvolvedor (que também ainda estou a definir o seguimento). Descreverei por tópicos minhas atuações e pretenções:
-- 👨‍🏫 Graduado em Licenciatura Matemática - UFPB
-- 👨‍💻 Graduando em Licenciatura em Ciência da Computação - UFPB
-- 🔀 Pesquisando sobre os segmentos de desenvolvendor para definar em qual se aprofundar (back-end, front-end, full stack)
-- 📚 Conhecimento nas Linguagens: JAVA e PYTHON
-- ↗️ Metas de aprendizagem: JavaScript, TypeScript , HTML5, CSS3, BootStrap 4, MySQL, JQuery, Angular, React 
-- 🔭 Já visualizo minha primeira oportunidade, e quando ela chegar a abraçarei com todas as forças.
-- ✅ Nas experiências como docente adquiri habilidades fundamentais para um profissional em várias áreas do mercado, a saber: planejamento; foco; relacionamento; empatia; companheirismo; determinação; organização, comunicação.
----
+Sou licenciando em Ciência da Computação pela UFPB e estou direcionando minha carreira para desenvolvimento backend Java.
 
-<p align='center'>
-  
-  <a href="https://www.linkedin.com/in/cosmo-matias/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/ducosmo">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
-</p>
+Tenho projetos de estudo com Java, Spring Boot, JPA, JDBC e MongoDB. Atualmente, estou revisando esses conhecimentos e aprimorando minhas aplicações com testes, documentação e regras de negócio.
 
----
+Minha experiência como professor e instrutor de informática contribuiu para desenvolver comunicação, organização e resolução de problemas.
 
-<div align="center"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50px"/>
-          
-  </div>
-          
+Tenho mudança planejada para Joinville/SC em janeiro de 2027 e busco minha primeira oportunidade profissional em desenvolvimento de software.
+
+## Foco atual
+
+- Java e orientação a objetos
+- Spring Boot e APIs REST
+- SQL e persistência de dados
+- Git e GitHub
+- Testes e documentação
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/cosmo-matias/)
